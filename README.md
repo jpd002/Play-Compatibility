@@ -4,6 +4,12 @@ This is the official Play! compatibility tracker. Based on the same concept for 
 
 Still a work in progress. All information from the wiki (https://github.com/jpd002/Play-/wiki/Compatible-games) will be migrated here.
 
+# Guidelines
+
+The games can be tested on either platform, but you can add the info about the platform it was tested on in the report. The compatibility should be more or less the same for every supported platform. If there's conflicting reports about a game's status on different platforms it probably means there's a platform specific bug that should be addressed differently than a compatibility issue. In that case, please open an issue on the main repository.
+
+The games can be tested on the build you've made yourself. Just specify the commit hash of your build in the report.
+
 # Game statuses
 
 **state-playable** means that the game is fully playable.
