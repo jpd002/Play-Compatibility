@@ -3,7 +3,7 @@ mono: none
 dotnet: 2.1
 script:
   - git clone https://github.com/jpd002/PlayServices.git PlayServices
-  - git checkout develop
   - pushd PlayServices
+  - git checkout develop
   - dotnet build
   - popd
