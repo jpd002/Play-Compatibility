@@ -1,0 +1,8 @@
+language: csharp
+mono: none
+dotnet: 2.1
+script:
+  - git clone https://github.com/jpd002/PlayServices.git PlayServices
+  - pushd PlayServices
+  - dotnet build
+  - popd
