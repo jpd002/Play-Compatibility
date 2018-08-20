@@ -5,5 +5,5 @@ script:
   - git clone https://github.com/jpd002/PlayServices.git PlayServices
   - pushd PlayServices
   - git checkout develop
-  - dotnet build
+  - dotnet run -p tools/CompatibilityValidator
   - popd
