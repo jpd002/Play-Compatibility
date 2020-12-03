@@ -1,9 +1,8 @@
 name: Generate Compatibility Report
 
 on:
-  push:
-    branches:
-      - '*'
+  schedule:
+    - cron:  '0 0 * * *'
 jobs:
   generate_report:
     runs-on: ubuntu-latest
