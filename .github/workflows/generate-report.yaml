@@ -5,7 +5,7 @@ on:
     branches:
       - '*'
 jobs:
-  build_dotnet:
+  generate_report:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -21,3 +21,7 @@ jobs:
       run: dotnet build
     - name: Run
       run: dotnet run -p tools/CompatibilityValidator
+      env:
+        ps_gh_apitoken: ${{ secrets.GITHUB_TOKEN }}
+        ps_aws_access_key: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        ps_aws_secret_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
