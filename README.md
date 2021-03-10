@@ -18,7 +18,7 @@ IMPORTANT NOTE 1: please, be sure that the information you are reporting is 100%
 
 IMPORTANT NOTE 2: when in doubt, just open any valid issue that already has a label added with the status (invalid or not verified issues aren't given any status label) and follow the example. Example of valid issue: https://github.com/jpd002/Play-Compatibility/issues/1212
 
-**state-playable** means that the game is fully playable. It's important to notice thay you _can't use_ external save files to progress beyond some parts where the emulator itself would have a gamebreaking issue (if you need a save to bypass an issue, the game isn't playable). For games where saving/loading is mandatory to keep your progress in some meaningful way, not being able to save also makes the game _not playable_.
+**state-playable** means that the game is fully playable. It's important to notice that you _can't use_ external save files to progress beyond some parts where the emulator itself would have a gamebreaking issue (if you need a save to bypass an issue, the game isn't playable). For games where saving/loading is mandatory to keep your progress in some meaningful way, not being able to save also makes the game _not playable_.
 
 **state-ingame** means somewhat playable past title screens (including with graphics bugs, crashes, saving, loading and other major problems).
 
