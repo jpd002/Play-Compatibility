@@ -1,6 +1,6 @@
 # Play! - Compatibility Tracker
 
-This is the official Play! compatibility tracker. Based on the same concept for cxbx: https://github.com/Cxbx-Reloaded/game-compatibility.
+This is the official [Play!](https://github.com/jpd002/Play-) compatibility tracker. Based on the same concept for cxbx: https://github.com/Cxbx-Reloaded/game-compatibility.
 
 # Guidelines
 
