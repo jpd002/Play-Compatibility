@@ -3,7 +3,7 @@
 This is the official [Play!](https://github.com/jpd002/Play-) compatibility tracker. Based on the same concept for cxbx: https://github.com/Cxbx-Reloaded/game-compatibility.
 
 # Discord
-You can join the official Discord with this link https://discord.gg/h6XUXD2. When in doubt about any information you want to report, that's the best place to ask and for general discussion about the project in general.
+You can join the official Discord with this link https://discord.gg/HygQnQP. When in doubt about any information you want to report, that's the best place to ask and for general discussion about the project in general.
 
 # Guidelines
 
